@@ -1,5 +1,5 @@
 # Teaching-Myself-Assembly
-A repository containing a list of projects I created to teach myself assembly
+A repository containing a list of projects I created to teach myself assembly. Most of these projects were programmed for Marco Schweighauser's [Online Assembler-Simulator](https://schweigi.github.io/assembler-simulator/index.html)
 
 
 ## Repositories
