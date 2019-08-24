@@ -15,3 +15,5 @@ A repository containing a list of projects I created to teach myself assembly. M
 [Assembly-All-Star](https://github.com/SleepingFox88/Assembly-All-Star)
 
 [Assembly-Counting](https://github.com/SleepingFox88/Assembly-Counting)
+
+[Assembly-Example-Boot](https://github.com/SleepingFox88/Assembly-Example-Boot)
