@@ -4,16 +4,16 @@ A repository containing a list of projects I created to teach myself assembly. M
 
 ## Repositories
 
-[Assembly-Fibonacci](https://github.com/SleepingFox88/Assembly-Fibonacci)
+[Assembly-Fibonacci](https://github.com/sloganking/Assembly-Fibonacci)
 
-[Assembly-Double-Dabble](https://github.com/SleepingFox88/Assembly-Double-Dabble)
+[Assembly-Double-Dabble](https://github.com/sloganking/Assembly-Double-Dabble)
 
-[Assembly-Software-Multiplication](https://github.com/SleepingFox88/Assembly-Software-Multiplication)
+[Assembly-Software-Multiplication](https://github.com/sloganking/Assembly-Software-Multiplication)
 
-[Assembly-Function-Stack-Frames](https://github.com/SleepingFox88/Assembly-Function-Stack-Frames)
+[Assembly-Function-Stack-Frames](https://github.com/sloganking/Assembly-Function-Stack-Frames)
 
-[Assembly-All-Star](https://github.com/SleepingFox88/Assembly-All-Star)
+[Assembly-All-Star](https://github.com/sloganking/Assembly-All-Star)
 
-[Assembly-Counting](https://github.com/SleepingFox88/Assembly-Counting)
+[Assembly-Counting](https://github.com/sloganking/Assembly-Counting)
 
-[Assembly-Example-Boot](https://github.com/SleepingFox88/Assembly-Example-Boot)
+[Assembly-Example-Boot](https://github.com/sloganking/Assembly-Example-Boot)
